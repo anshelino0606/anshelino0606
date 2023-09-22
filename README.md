@@ -1,4 +1,4 @@
-<img src="https://myreadme.vercel.app/api/embed/h3llyy?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=h3llyy&layout=compact) ![Overall Stats](https://github-readme-stats.vercel.app/api?username=h3llyy&count_private=true&show_icons=true&hide=contribs)
 
 <!--
 **h3llyy/h3llyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
