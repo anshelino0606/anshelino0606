@@ -1,5 +1,5 @@
 ![Overall Stats](https://github-readme-stats.vercel.app/api?username=h3llyy&count_private=true&show_icons=true&hide=contribs)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=h3llyy&layout=compact) 
+
 <!--
 **h3llyy/h3llyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
