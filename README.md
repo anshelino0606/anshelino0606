@@ -6,9 +6,6 @@ I thrive on building immersive experiences and solving complex challenges in the
 ## Current Project
 - 🚀 Explore my latest work: [MARCHING-CUBES-ENGINE](https://github.com/h3llyy/MARCHING-CUBES-ENGINE)
 
-## GitHub Activity
-
-[![My GitHub Commit Activity](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=h3llyy&theme=tokyonight&utcOffset=+2)](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=h3llyy&theme=tokyonight&utcOffset=+2)
 
 <!--
 **h3llyy/h3llyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
