@@ -1,11 +1,6 @@
-# Hi, I'm Anhelina 👋
+## Hi, I'm Anhelina 👋
 
-Welcome to my GitHub profile! A dedicated C++ software engineer and a passionate graphics/game developer page. 
-I thrive on building immersive experiences and solving complex challenges in the world of technology.
-
-## Current Project
-- 🚀 Explore my latest work: [MARCHING-CUBES-ENGINE](https://github.com/h3llyy/MARCHING-CUBES-ENGINE)
-
+I'm a dedicated C++ software engineer, graphics and computer vision engineer.
 
 <!--
 **h3llyy/h3llyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
